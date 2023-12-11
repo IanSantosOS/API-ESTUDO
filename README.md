@@ -11,20 +11,20 @@ Claro que o `npm i` instala tudo, porém aqui está documentado todos os pacotes
 
 `package.json` com informações padrão
 
-    npm init -y
+  npm init -y
 
 Configuração de servidor e roteamento:
 
-    npm i express
+  npm i express
 
 Conexão com o MySQL e manipulação do Banco de Dados:
 
-    npm i mysql2
+  npm i mysql2
 
 Leitor de variáveis `.env`:
 
-    npm i dotenv
+  npm i dotenv
 
 Reinicialização da aplicação quando alguma alteração é detectada:
 
-    npm i nodemon -D
+  npm i nodemon -D
