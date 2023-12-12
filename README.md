@@ -2,9 +2,12 @@
 repositório para estudo pessoal sobre APIs
 
 ## Vídeos
-[Como criar uma API completa com NodeJS e Express | Backend - Projeto Full Stack](https://www.youtube.com/watch?v=Cdu0WJhI-d8)
 
-[Lista de Tarefas com HTML, CSS e JavaScript | Frontend - Projeto Full Stack](https://www.youtube.com/watch?v=YVsNVPFOEuk)
+1. **[Playlist](https://www.youtube.com/playlist?list=PLdtmpu_1ITQJ1Y2-ZBbE7ROP6u1kU0J5l)**
+
+	- [Como criar uma API completa com NodeJS e Express | Backend - Projeto Full Stack](https://www.youtube.com/watch?v=Cdu0WJhI-d8)
+
+	- [Lista de Tarefas com HTML, CSS e JavaScript | Frontend - Projeto Full Stack](https://www.youtube.com/watch?v=YVsNVPFOEuk)
 
 ## Anotações
 
