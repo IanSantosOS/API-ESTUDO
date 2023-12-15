@@ -1,5 +1,3 @@
-const { response } = require("express");
-
 const validateFieldTitle = (request, response, next) => {
   const { body } = request;
 
@@ -7,7 +5,7 @@ const validateFieldTitle = (request, response, next) => {
     return response.status(400).json({ message: 'The field "title" is required!' });
   }
 
-  if (body.title === '') {
+  if (body.title.trim() === '') {
     return response.status(400).json({ message: 'Title cannot be empty!' });
   }
 
