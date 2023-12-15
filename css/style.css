@@ -7,7 +7,7 @@
 
 html,
 body {
-  height: 100%;
+  height: auto;
   width: 100%;
 }
 
@@ -24,6 +24,7 @@ main {
   border-radius: 1rem;
   padding: 1.7em;
   width: 90%;
+  height: min-content;
   margin: 3em auto;
   box-shadow: .4em .4em .5em rgba(0,0,0,0.1);
 }
@@ -59,7 +60,7 @@ main {
   padding: 1em;
   font-size: 1rem;
   border-radius: 1em;
-  border: 1px solid #ddd;
+  border: 2px solid #ddd;
 }
 
 .input:focus {
