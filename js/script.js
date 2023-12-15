@@ -11,7 +11,12 @@ const fetchTasks = async () => {
 const addTask = async (e) => {
   e.preventDefault();
 
-  const task = { title: inputTask.value };
+  if (inputTask.value.trim() === '') {
+    alert('Não adicionamos tarefas vazias!');
+    return;
+  }
+  const value = inputTask.value.trim().replace(/\s+/g, ' ');
+  const task = { title: value };
 
   await fetch('http://localhost:3333/tasks', {
     method: 'post',
