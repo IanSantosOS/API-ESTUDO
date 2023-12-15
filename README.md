@@ -9,6 +9,8 @@ repositório para estudo pessoal sobre APIs
 
 	- [Lista de Tarefas com HTML, CSS e JavaScript | Frontend - Projeto Full Stack](https://www.youtube.com/watch?v=YVsNVPFOEuk)
 
+	- [Repositório Github](https://github.com/manualdodev/todolist-fullstack)
+
 ## Anotações
 
 ### Aplicativos
